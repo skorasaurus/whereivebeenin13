@@ -20,22 +20,22 @@
   ],
   "Layer": [
     {
-      "geometry": "point",
+      "geometry": "linestring",
       "extent": [
         -82.419742299,
         19.75809596,
         -72.20026952,
         42.607198069
       ],
-      "id": "points",
+      "id": "tracks",
       "class": "",
       "Datasource": {
-        "file": "trackpoints-2013inreview.json.geojson"
+        "file": "tracksonly.geojson"
       },
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "points"
+      "name": "tracks"
     }
   ],
   "scale": 1,
