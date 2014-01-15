@@ -1,13 +1,13 @@
 {
   "bounds": [
-    -82.1942,
-    40.9602,
-    -81.3606,
-    41.6237
+    -81.7753,
+    41.4494,
+    -81.5487,
+    41.5985
   ],
   "center": [
-    -81.6421,
-    41.3572,
+    -81.6669,
+    41.5091,
     10
   ],
   "format": "png8",
@@ -41,7 +41,7 @@
   "scale": 1,
   "metatile": 2,
   "_basemap": "skorasaurus.gnamp6k0",
-  "name": "2013_in_Review",
+  "name": "2013R-mellowyella",
   "description": "",
   "attribution": ""
 }
