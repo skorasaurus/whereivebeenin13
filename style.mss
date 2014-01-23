@@ -2,9 +2,12 @@ Map {
  background-color: transparent;
 }
 
-
-
-
+#tracks[zoom<=12] {
+ // image-filters:colorize-alpha(blue, cyan, orange);
+  line-width:0.9;//
+  line-smooth: 0.18;
+  line-color:#FFDB5D;
+}
 
 /* #points::emphasis {
   marker-width:6;
@@ -13,6 +16,11 @@ Map {
 } */
 
 #tracks {
-  line-width:1;
-  line-color:#168;
+ // image-filters:colorize-alpha(blue, cyan, orange);
+  line-width:4;//
+  line-smooth: 0.18;
+  line-color:#FFDB5D;
+  line-opacity: 0.33;
+  line-comp-op: plus;
+  
 }
