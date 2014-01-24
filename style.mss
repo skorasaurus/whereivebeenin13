@@ -22,5 +22,5 @@ Map {
   line-smooth: 0.18;
   line-color:#FFFFFF;
   line-opacity: 0.23;
-  image-filters:colorize-alpha(cyan, green, yellow , orange, red);
+  image-filters:colorize-alpha(cyan 60, green, yellow , orange, red);
 }
